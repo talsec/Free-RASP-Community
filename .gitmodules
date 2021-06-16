@@ -1,0 +1,6 @@
+[submodule "iOS"]
+	path = iOS
+	url = git@github.com:talsec/Free-RASP-iOS.git
+[submodule "Android"]
+	path = Android
+	url = git@github.com:talsec/Free-RASP-Android.git
