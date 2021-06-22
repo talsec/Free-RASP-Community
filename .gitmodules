@@ -1,6 +1,8 @@
 [submodule "iOS"]
 	path = iOS
 	url = git@github.com:talsec/Free-RASP-iOS.git
+	branch = master
 [submodule "Android"]
 	path = Android
 	url = git@github.com:talsec/Free-RASP-Android.git
+	branch = master
