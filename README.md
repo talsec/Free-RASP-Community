@@ -4,6 +4,19 @@
 
 ![Stack Exchange monthly questions](https://img.shields.io/stackexchange/stackoverflow/qm/freerasp)
 ![GitHub](https://img.shields.io/github/license/talsec/Free-RASP-Community)
+
+<p>
+    <a href="https://github.com/talsec/Free-RASP-Android" target="_blank">
+        <img align="center" style="height: 3rem; width: auto; margin: 2px;" alt="Open Android Submodule" src="visuals/button_android.png"/>
+    </a>
+    <a href="https://github.com/talsec/Free-RASP-iOS" target="_blank">
+        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open iOS Submodule" src="visuals/button_ios.png"/>
+    </a>
+    <a href="#" target="_blank">
+        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open Flutter Submodule" src="visuals/button_flutter_soon.png"/>
+    </a>
+</p>
+
 # Overview
 freeRASP provides multiplatform mobile all-in-one protection for mobile applications free of charge.
 
@@ -17,7 +30,12 @@ freeRASP provides multiplatform mobile all-in-one protection for mobile applicat
 
 :heavy_check_mark: Threat alerts & monthly security reports
 
-At the core of freeRASP is a security library which is freely distributed as a library/framework for Android and iOS. The compiled library is part of a sample application together with an integration manual.
+The core of freeRASP is a security library which is freely distributed for all mobile platforms. The compiled library is part of a sample application together with an integration manual.
+
+Check platform-specific submodule for details:
+* [Android](google.com)
+* [iOS](google.com)
+* Flutter (soon)
 
 ## Key Benefits
 * Reactions to attacks and detected security threats via an API
