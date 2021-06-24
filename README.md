@@ -33,8 +33,8 @@ freeRASP provides multiplatform mobile all-in-one protection for mobile applicat
 The core of freeRASP is a security library which is freely distributed for all mobile platforms. The compiled library is part of a sample application together with an integration manual.
 
 Check platform-specific submodule for details:
-* [Android](google.com)
-* [iOS](google.com)
+* [Android](https://github.com/talsec/Free-RASP-Android)
+* [iOS](https://github.com/talsec/Free-RASP-iOS)
 * Flutter (soon)
 
 ## Key Benefits
