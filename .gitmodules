@@ -7,6 +7,6 @@
 	url = https://github.com/talsec/Free-RASP-Android.git
 	branch = master
 [submodule "Flutter"]
-	path = Android
+	path = Flutter
 	url = https://github.com/talsec/Free-RASP-Flutter.git
 	branch = master
