@@ -6,14 +6,14 @@
 ![GitHub](https://img.shields.io/github/license/talsec/Free-RASP-Community)
 
 <p>
+    <a href="https://github.com/talsec/Free-RASP-Flutter" target="_blank">
+        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open Flutter Submodule" src="visuals/button_flutter.png"/>
+    </a>
     <a href="https://github.com/talsec/Free-RASP-Android" target="_blank">
         <img align="center" style="height: 3rem; width: auto; margin: 2px;" alt="Open Android Submodule" src="visuals/button_android.png"/>
     </a>
     <a href="https://github.com/talsec/Free-RASP-iOS" target="_blank">
         <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open iOS Submodule" src="visuals/button_ios.png"/>
-    </a>
-    <a href="#" target="_blank">
-        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open Flutter Submodule" src="visuals/button_flutter_soon.png"/>
     </a>
 </p>
 
@@ -33,9 +33,9 @@ freeRASP provides multiplatform mobile all-in-one protection for mobile applicat
 The core of freeRASP is a security library which is freely distributed for all mobile platforms. The compiled library is part of a sample application together with an integration manual.
 
 Check platform-specific submodule for details:
+* [Flutter](https://github.com/talsec/Free-RASP-Flutter)
 * [Android](https://github.com/talsec/Free-RASP-Android)
 * [iOS](https://github.com/talsec/Free-RASP-iOS)
-* Flutter (soon)
 
 ## Key Benefits
 * Reactions to attacks and detected security threats via an API

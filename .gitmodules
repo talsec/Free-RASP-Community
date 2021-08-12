@@ -8,5 +8,5 @@
 	branch = master
 [submodule "Flutter"]
 	path = Flutter
-	url = https://github.com/talsec/Free-RASP-Flutter.git
+	url = https://github.com/talsec/Free-RASP-Flutter
 	branch = master
