@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - freerasp (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - freerasp (from `.symlinks/plugins/freerasp/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  freerasp:
+    :path: ".symlinks/plugins/freerasp/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  freerasp: cf77912fd2d8ad087abcba5b591802e401646230
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1

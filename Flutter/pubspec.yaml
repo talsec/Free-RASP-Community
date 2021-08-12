@@ -1,0 +1,25 @@
+name: freerasp
+description: freeRASP is a part of security SDK for the app shielding and security monitoring. Learn more about provided features on the freeRASP's homepage first.
+homepage: https://github.com/talsec/Free-RASP-Community
+repository: https://github.com/talsec/Free-RASP-Flutter
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freerasp: 1.0.0
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
