@@ -28,7 +28,7 @@ freeRASP provides multiplatform mobile all-in-one protection for mobile applicat
 
 :heavy_check_mark: Runtime analysis protection
 
-:heavy_check_mark: Threat alerts & monthly security reports
+:heavy_check_mark: Threat alerts & weekly security reports
 
 The core of freeRASP is a security library which is freely distributed for all mobile platforms. The compiled library is part of a sample application together with an integration manual.
 
