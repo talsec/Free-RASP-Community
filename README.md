@@ -41,7 +41,7 @@ Check platform-specific submodule for details:
 * Reactions to attacks and detected security threats via an API
 * Alerts for critical incidents like app tampering and cloning
 * Simple download and install with clear source code snippets
-* Monthly security report via email indicating security status of devices and app integrity
+* Weekly security report via email indicating security status of devices and app integrity
 * Fullfills OWASP Code Tampering and Reverse Engineering measures
 
 # Cloud Services
@@ -62,6 +62,8 @@ Data created by freeRASP are anonymized. Nevertheless, don't forget you still ha
 
 ## Security Report
 The Security Report comes with Incident rate dynamics, Root/Jailbreak, Tamper/Cloning, RE attempts and many other types of security information you can further investigate to protect your app and users.
+
+_The value of email field in Talsec's config (check platform-specific submodule for more info) is automatically used as target address for your security reports. Email has a strict form `'name@domain.com'`._
 
 <h1 align=center>
 <img src="visuals/dashboard.png" width=100%>
