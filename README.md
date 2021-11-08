@@ -89,3 +89,212 @@ The freeRASP is available for Android and iOS developers. We encourage community
 We provide extended services (ie. malware detection, detailed configurable threat reactions, immediate alerts and penetration testing) to our commercial customers with a self-hosted cloud platform as well. To get the most advanced protection compliant with PSD2 RT and eIDAS and support from our experts contact us at https://talsec.app.
 
 **TIP:** You can try freeRASP and then upgrade easily to an enterprise service.
+
+## Plans Comparison
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>freeRASP</th>
+            <th>Premium</th>
+            <th>Business</th>
+            <th>Enterprise</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Number of active devices </td>
+            <td>unlimitted (monitoring up to 100k)</td>
+            <td>up to 10&nbsp;000k </td>
+            <td>unlimitted</td>
+            <td>unlimitted</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Runtime App Self Protection (RASP, app shielding)</strong></td>
+        </tr>
+        <tr>
+            <td>Advanced root/jailbreak protections</td>
+            <td>basic</td>
+            <td>standard</td>
+            <td>advanced</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td>Runtime reverse engineering controls</br> 
+                <ul>
+                    <li>Debug</li>
+                    <li>Emulator</li>
+                    <li>Hooking protections</li>
+                </ul>
+            </td>
+            <td>basic</td>
+            <td>standard</td>
+            <td>advanced</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td>Runtime integrity controls</br> 
+                <ul>
+                    <li>Tamper protection</li>
+                    <li>Repackaging / Cloning protection</li>
+                    <li>Device binding protection</li>
+                </ul>
+            </td>
+            <td>basic</td>
+            <td>standard</td>
+            <td>advanced</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td>Device OS security status check</br> 
+                <ul>
+                    <li>HW security module control</li>
+                    <li>Device lock control</li>
+                    <li>Device lock change control</li>
+                </ul>
+            </td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td>UI protection</br> 
+                <ul>
+                    <li>Overlay protection</li>
+                    <li>Accessibility services protection</li>
+                </ul>
+            </td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Hardening suite</strong></td>
+        </tr>
+        <tr>
+            <td>Security hardening suite</br> 
+                <ul>
+                    <li>Dynamic certificate pinning</li>
+                    <li>Obfuscation</li>
+                    <li>Secure storage hardening</li>
+                    <li>Secure pinpad</li>
+                </ul>
+            </td>
+            <td>no</td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Attestation and API protection</strong></td>
+        </tr>
+        <tr>
+            <td>Device attestation and dynamic API protection</td>
+            <td>no</td>
+            <td>no</td>
+            <td>no</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Monitoring</strong></td>
+        </tr>
+        <tr>
+            <td>AppSec regular email reporting</td>
+            <td>yes (up to 100k devices)</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Data insights and auditing portal</td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Embed code to integrate with portal</td>
+            <td>no</td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>API data access</td>
+            <td>no</td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Data retention</td>
+            <td>1 month</td>
+            <td>1 month</td>
+            <td>1 year</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Malware detection</strong></td>
+        </tr>
+        <tr>
+            <td>SDK for Malware detection and backend monitoring</td>
+            <td>no</td>
+            <td>optional</td>
+            <td>optional</td>
+            <td>optional</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>User Safety suite</strong></td>
+        </tr>
+        <tr>
+            <td>SDK API for Safety Dashboard for end-users</td>
+            <td>min</td>
+            <td>min</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>User Safety Assurance service (Improvement plan report, Top10 tips, hot attacks info)</td>
+            <td>no</td>
+            <td>no</td>
+            <td>basic</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Deployment</strong></td>
+        </tr>
+        <tr>
+            <td>Individual unique SDK build</td>
+            <td>no</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Private cloud cluster</td>
+            <td>no</td>
+            <td>no</td>
+            <td>no</td>
+            <td>custom</td>
+        </tr>
+        <tr>
+            <td colspan=5><strong>Platforms</strong></td>
+        </tr>
+        <tr>
+            <td>Native (iOS and Android)</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Flutter (multiplatform)</td>
+            <td>yes</td>
+            <td>yes</td>
+            <td>custom</td>
+            <td>custom</td>
+        </tr>
+    </tbody>
+</table>
