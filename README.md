@@ -52,12 +52,14 @@ Cloud services are shared both for Android and iOS. Cloud services (ie. reports 
 * Each account can set up a Watcher to receive weekly alerts about detected attempts for app modifications
 
 ## Processed data and GDPR compliancy
-Data created by freeRASP are anonymized. Nevertheless, don't forget you still have to specify freeRASP (https://talsec.app) in your Terms and Conditions as 3rd party data processor to be GDPR compliant. Data won't be provided to any other party.
+Talsec collects and analyzes device data to lower the risk of security issues, mitigate attacks, provide a possibility to investigate an attack, and provide security reports and attack watchers. Data created by freeRASP are anonymized. Nevertheless, don't forget you still have to specify freeRASP (https://talsec.app) in your Terms and Conditions as 3rd party data processor to be GDPR compliant. Data won't be provided to any other party. Also include the collected data in the privacy policy. It is also important to include the information about data collection in the corresponding application store, more on the matter in the integration manual of given platform.
 
 ### Processed Data
-* Unique app instance identifier
-* Diagnostic device data
-* Signing certificate 
+* Anonymous device identifier
+* Security diagnostics data (e.g., indication of rooted device, indication of running in emulator)
+* Security settings data (e.g., indication of turned off screen lock)
+* Potentially harmful app metadata (e.g., package name)
+* Signing certificate
 * Publisher data (email) - used for sending reports
 
 ## Security Report
