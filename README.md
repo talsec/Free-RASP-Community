@@ -17,8 +17,10 @@
     </a>
 </p>
 
-# Overview
-freeRASP provides multiplatform mobile all-in-one protection for mobile applications free of charge.
+# In-App Protection and RASP
+In-App protection is a mobile security technology that allows mobile applications to check the security state of the environment that it runs within, actively counteract attack attempts, and control the integrity of the app. Such technology is also called RASP (Runtime App Self Protection) or App Shielding.
+
+freeRASP provides multi-platform mobile all-in-one protection for mobile applications free of charge.
 
 **The protection features**:
 
@@ -51,16 +53,36 @@ Cloud services are shared both for Android and iOS. Cloud services (ie. reports 
 * Data are continuously evaluated and ML-classified to detect anomalies
 * Each account can set up a Watcher to receive weekly alerts about detected attempts for app modifications
 
-## Processed data and GDPR compliancy
-Talsec collects and analyzes device data to lower the risk of security issues, mitigate attacks, provide a possibility to investigate an attack, and provide security reports and attack watchers. Data created by freeRASP are anonymized. Nevertheless, don't forget you still have to specify freeRASP (https://talsec.app) in your Terms and Conditions as 3rd party data processor to be GDPR compliant. Data won't be provided to any other party. Also include the collected data in the privacy policy. It is also important to include the information about data collection in the corresponding application store, more on the matter in the integration manual of given platform.
+## Data Collection, Processing, and GDPR compliance
+By April 2022 [Google Play requires](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en) all app publishers to declare how they collect and handle user data for the apps they publish on Google Play. They should inform users properly of the data collected by the apps and how the data is shared and processed. Therefore, Google will reject the apps which do not comply with the policy.
 
-### Processed Data
-* Anonymous device identifier
-* Security diagnostics data (e.g., indication of rooted device, indication of running in emulator)
-* Security settings data (e.g., indication of turned off screen lock)
-* Potentially harmful app metadata (e.g., package name)
-* Signing certificate
-* Publisher data (email) - used for sending reports
+Apple has a similar [approach](https://developer.apple.com/app-store/app-privacy-details/) and data types specification.
+
+Talsec recommends adding the following statements to the Privacy Policy page dedicated to your app. Also, use the text below while filling in the Google Play Safety Section or similar for Apple App Store publishing.
+
+<i>
+For the purpose of Fraud prevention, user safety, and compliance the dedicated App safety SDK needs to send the following anonymous diagnostic data off the device for detection of security issues. Thus the application collects the following data:
+
+* Category: App info and performance
+    * Data Type: Diagnostics
+    * Information about the integrity of the app and the operating system. For example, rooting, running in an emulator, hooking framework usage, etc...
+* Category: Device or other identifiers
+    * Data Type: Device or other identifiers
+    * Information that relates to an individual device. For example, a device model and anonymous identifier to control that app instance executed on the original device that it was initially installed on. It is needed to combat threats like bots and API abuse.
+</i>
+
+None of the data collected by the freeRASP Talsec Security SDK is considered personal or sensitive. Also, there is no technical way to identify the real person by the identifiers collected by freeRASP SDK.
+
+Thus this data is not Subject to generic GDPR regulations.
+
+Google Play’s User Data policy indicates that a prominent disclosure should be presented to the users, **in case of an app collecting personal or sensitive data**. 
+
+Though freeRASP doesn’t collect personal or sensitive data, the App publisher may still consider adding a disclosure screen, describing why the security diagnostic data is needed, what data, and how the data is used. [Link to best practices and guidelines](https://support.google.com/googleplay/android-developer/answer/11150561?hl=en&ref_topic=2364761) of Google.
+
+An example of a disclosure screen:
+<h1 align=left>
+<img src="https://github.com/talsec/Free-RASP-Community/blob/master/visuals/android_talsec_disclosure_screen.png" width=25%>
+</h1>
 
 ## Security Report
 The Security Report comes with Incident rate dynamics, Root/Jailbreak, Tamper/Cloning, RE attempts and many other types of security information you can further investigate to protect your app and users.
