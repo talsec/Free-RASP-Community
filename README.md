@@ -22,7 +22,7 @@ In-App protection is a mobile security technology that allows mobile application
 
 freeRASP provides multi-platform mobile all-in-one protection for mobile applications free of charge.
 
-**The protection features**:
+**The protection features**: 
 
 :heavy_check_mark: Tamper protection
 
