@@ -208,12 +208,12 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
             <td>yes</td>
         </tr>
         <tr>
-            <td colspan=5><strong>Attestation and API protection</strong></td>
+            <td colspan=5><strong>AppiCrypt® - App Integrity Cryptogram</strong></td>
         </tr>
         <tr>
-            <td>Device attestation and dynamic API protection</td>
+            <td>API protection by mobile client integrity check, online risk scoring, online fraud prevention, client App integrity check. The cryptographic proof of app & device integrity.</td>
             <td>no</td>
-            <td>no</td>
+            <td>yes</td>
         </tr>
         <tr>
             <td colspan=5><strong>Monitoring</strong></td>
