@@ -49,7 +49,8 @@ You can check platform-specific submodules for the installation guide and specif
 * Simple download and install with clear source code snippets
 * No significant effect on the app performance
 * Weekly security report via email indicating security status of devices and app integrity
-* Fulfills OWASP Code Tampering and Reverse Engineering measures
+* Fulfills [OWASP MASVS V8: Resilience Requirements](https://mas.owasp.org/MASVS/Controls/0x15-V8-Resiliency_Against_Reverse_Engineering_Requirements/)
+
 ##  :dart: Features
 freeRASP **provides protection** against potentially dangerous behavior,  including the following:
 
