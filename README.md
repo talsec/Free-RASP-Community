@@ -4,19 +4,6 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/talsec/Free-RASP-Community?color=green) ![GitHub](https://img.shields.io/github/license/talsec/Free-RASP-Community) ![GitHub](https://img.shields.io/github/last-commit/talsec/Free-RASP-Community) [![extra_pedantic on pub.dev](https://img.shields.io/badge/style-extra__pedantic-blue)](https://pub.dev/packages/extra_pedantic)
 
-
-<p>
-    <a href="https://github.com/talsec/Free-RASP-Flutter" target="_blank">
-        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open Flutter Submodule" src="visuals/button_flutter.png"/>
-    </a>
-    <a href="https://github.com/talsec/Free-RASP-Android" target="_blank">
-        <img align="center" style="height: 3rem; width: auto; margin: 2px;" alt="Open Android Submodule" src="visuals/button_android.png"/>
-    </a>
-    <a href="https://github.com/talsec/Free-RASP-iOS" target="_blank">
-        <img align="center" style="height: 3rem; width: auto; margin: 2px;"alt="Open iOS Submodule" src="visuals/button_ios.png"/>
-    </a>
-</p>
-
 # freeRASP
 In-App protection is a mobile security technology that allows mobile applications to check the security state of the environment they run within, actively counteract attack attempts, and control the integrity of the app. Such technology is also called RASP (Runtime App Self Protection) or App Shielding. 
 
@@ -37,10 +24,11 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
 - [License](#license) 
 
 # Overview
-The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is available for Flutter developers. 
+The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter and Cordova developers. 
 
 You can check platform-specific submodules for the installation guide and specific details down below:
 * [Flutter](https://pub.dev/packages/freerasp)
+* [Cordova](https://github.com/talsec/Free-RASP-Cordova)
 * [Android](https://github.com/talsec/Free-RASP-Android)
 * [iOS](https://github.com/talsec/Free-RASP-iOS)
 
