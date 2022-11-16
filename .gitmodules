@@ -12,5 +12,5 @@
 	branch = master
 [submodule "Cordova"]
 	path = Cordova
-	url = https://github.com/talsec/Free-RASP-Cordova
+	url = https://github.com/talsec/Free-RASP-Cordova.git
 	branch = master
