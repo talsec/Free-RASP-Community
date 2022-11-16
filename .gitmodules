@@ -10,3 +10,7 @@
 	path = Flutter
 	url = https://github.com/talsec/Free-RASP-Flutter
 	branch = master
+[submodule "Cordova"]
+	path = Cordova
+	url = https://github.com/talsec/Free-RASP-Cordova
+	branch = master
