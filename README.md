@@ -16,7 +16,7 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
 	* [Security Report](#security-report) 
 - [Cloud Services](#cloud-services)
     * [Data collection](#data-collection-processing-and-gdpr-compliance)
-- [Enterprise Services](#enterprise-services) 
+- [Enterprise Services](#bar_chart-enterprise-services) 
     * [Commercial version](#commercial-version)
 	* [Plans comparison](#plans-comparison)
 - [Community development](#community-development) 
@@ -24,10 +24,11 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
 - [License](#license) 
 
 # Overview
-The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter and Cordova developers. 
+The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Cordova and React Native developers. 
 
 You can check platform-specific submodules for the installation guide and specific details down below:
 * [Flutter](https://pub.dev/packages/freerasp)
+* [React Native](https://github.com/talsec/Free-RASP-ReactNative)
 * [Cordova](https://github.com/talsec/Free-RASP-Cordova)
 * [Android](https://github.com/talsec/Free-RASP-Android)
 * [iOS](https://github.com/talsec/Free-RASP-iOS)
