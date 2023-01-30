@@ -100,7 +100,7 @@ An example of a disclosure screen:
 </h1>
 
 # :bar_chart: Enterprise Services
-We provide extended services (AppiCrypt, Hardening, Secure Storage, and Certificate Pinning) to our commercial customers as well. To get the most advanced protection compliant with PSD2 RT and eIDAS and support from our experts, contact us at [talsec.app](https://talsec.app).
+We provide app security hardening SDK: i.e. AppiCrypt®, Customer Data Encryption (local storage), End-to-end encryption, Strings protection (e.g. API keys) and Dynamic Certificate Pinning to our commercial customers as well. To get the most advanced protection compliant with PSD2 RT and eIDAS and support from our experts, contact us at [talsec.app](https://talsec.app).
 
 ## Commercial version
 The commercial version provides a top-notch protection level, extra features, support, and maintenance. One of the most valued commercial features is [AppiCrypt®](https://www.talsec.app/appicrypt) - App Integrity Cryptogram.
@@ -126,7 +126,7 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
         <tr>
             <th></th>
             <th>freeRASP</th>
-            <th>Business</th>
+            <th>Business RASP+</th>
         </tr>
     </thead>
     <tbody>
@@ -143,7 +143,7 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
                 <ul>
                     <li>Debug</li>
                     <li>Emulator</li>
-                    <li>Hooking protections</li>
+                    <li>Hooking protections (e.g. Frida)</li>
                 </ul>
             </td>
             <td>basic</td>
@@ -155,6 +155,7 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
                     <li>Tamper protection</li>
                     <li>Repackaging / Cloning protection</li>
                     <li>Device binding protection</li>
+                    <li>Unofficial store detection</li>
                 </ul>
             </td>
             <td>basic</td>
@@ -164,8 +165,7 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
             <td>Device OS security status check 
                 <ul>
                     <li>HW security module control</li>
-                    <li>Device lock control</li>
-                    <li>Device lock change control</li>
+                    <li>Screen lock control</li>
                 </ul>
             </td>
             <td>yes</td>
@@ -187,10 +187,10 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
         <tr>
             <td>Security hardening suite 
                 <ul>
+                    <li>Customer Data Encryption (local storage)</li>
+                    <li>End-to-end encryption</li>
+                    <li>Strings protection (e.g. API keys)</li>
                     <li>Dynamic certificate pinning</li>
-                    <li>Obfuscation</li>
-                    <li>Secure storage hardening</li>
-                    <li>Secure pinpad</li>
                 </ul>
             </td>
             <td>no</td>
@@ -227,8 +227,22 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
             <td>no</td>
             <td>yes</td>
         </tr>
+         <td colspan=5><strong>Fair usage policy</strong></td>
+        </tr>
+        <tr>
+            <td>Mentioning of the app name in Talsec marketing communication (e.g. "Trusted by Talsec section" on social media)</td>
+            <td>over 100k downloads</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Threat signals data collection to Talsec database for processing and product improvement</td>
+            <td>yes</td>
+            <td>no</td>
+        </tr>
     </tbody>
 </table>
+
+For further comparison details (and planned features), follow our [discussion](https://github.com/talsec/Free-RASP-Community/discussions/5).
 
 # Community Development
 
