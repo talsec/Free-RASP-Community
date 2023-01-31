@@ -14,3 +14,7 @@
 	path = Cordova
 	url = https://github.com/talsec/Free-RASP-Cordova.git
 	branch = master
+[submodule "React Native"]
+	path = React Native
+	url = https://github.com/talsec/Free-RASP-ReactNative.git
+        branch = master
