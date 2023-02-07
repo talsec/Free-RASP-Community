@@ -64,7 +64,7 @@ The report provides a quick overview of the security incidents, their dynamics, 
 
 # :outbox_tray: Cloud Services
 
-Cloud services are shared both for Android and iOS. Cloud services (i.e., reports and email alerts) for freeRASP are provided by Talsec free of charge. However, freeRASP currently does not support self-hosted cloud service.
+Cloud services are shared both for Android and iOS. Cloud services (i.e., reports and email alerts) for freeRASP are provided by Talsec free of charge within FUP. Only commercial plans currently support customer managed or inhouse audit/monitoring data collection cloud service.
 
 * Anonymized data logs are sent to ElasticSearch
 * Data are continuously evaluated and ML-classified to detect anomalies
@@ -92,7 +92,7 @@ None of the data collected by the freeRASP Talsec Security SDK is considered per
 
 Google Play’s User Data policy indicates that a prominent disclosure should be presented to the users, **in case of an app collecting personal or sensitive data**. 
 
-Though freeRASP doesn’t collect personal or sensitive data, the App publisher may still consider adding a disclosure screen, describing why the security diagnostic data is needed, what data, and how the data is used. [Link to best practices and guidelines](https://support.google.com/googleplay/android-developer/answer/11150561?hl=en&ref_topic=2364761) of Google.
+Though freeRASP collects diagnostical data (anonymous and not user-related ), the App publisher should consider adding a disclosure screen, describing why the security diagnostic data is needed, what data, and how the data is used. [Link to best practices and guidelines](https://support.google.com/googleplay/android-developer/answer/11150561?hl=en&ref_topic=2364761) of Google.
 
 An example of a disclosure screen:
 
@@ -100,16 +100,23 @@ An example of a disclosure screen:
 <img src="https://raw.githubusercontent.com/talsec/Free-RASP-Community/master/visuals/android_disclosure_screen.png" width=25%>
 </h1>
 
-# :bar_chart: Enterprise Services
-We provide app security hardening SDK: i.e. AppiCrypt®, Customer Data Encryption (local storage), End-to-end encryption, Strings protection (e.g. API keys) and Dynamic Certificate Pinning to our commercial customers as well. To get the most advanced protection compliant with PSD2 RT and eIDAS and support from our experts, contact us at [talsec.app](https://talsec.app).
+# :bar_chart: Talsec Commercial Subscriptions 
+Talsec offers commercial plans for customers to:
+* Pass external penetration testing
+* Comply with FinTech grade regulations 
+* Gain OWASP MAS Compliance 
+* Protect APIs and combat fraud
+* Win time needed for coding app security best practices 
 
-## Commercial version
+To get the most advanced protection compliant  and support from our experts, contact us at [talsec.app](https://talsec.app).
+
 The commercial version provides a top-notch protection level, extra features, support, and maintenance. One of the most valued commercial features is [AppiCrypt®](https://www.talsec.app/appicrypt) - App Integrity Cryptogram.
 
 It allows easy to implement API protection and App Integrity verification on the backend to prevent API abuse:
 
 -   Bruteforce attacks
 -   Botnets
+-   API abuse by App impersonation
 -   Session-hijacking
 -   DDoS
 
