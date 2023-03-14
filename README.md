@@ -61,9 +61,9 @@ The report provides a quick overview of the security incidents, their dynamics, 
 
 ![enter image description here](https://raw.githubusercontent.com/talsec/Free-RASP-Community/master/visuals/dashboard.png)
 
-# :outbox_tray: Cloud Services
+# :outbox_tray: App security monitoring service
 
-Cloud services are shared both for Android and iOS. Cloud services (i.e., reports and email alerts) for freeRASP are provided by Talsec free of charge within FUP. Only commercial plans currently support customer managed or inhouse audit/monitoring data collection cloud service.
+App security monitoring service are shared both for Android and iOS. App security monitoring service (i.e., reports and email alerts) for freeRASP are provided by Talsec free of charge within FUP. Only commercial plans currently support customer managed or inhouse audit/monitoring data collection cloud service. freeRASP SDK sends security diganostics data to Talsec cloud DB. It implies:
 
 * Anonymized data logs are sent to ElasticSearch
 * Data are continuously evaluated and ML-classified to detect anomalies
