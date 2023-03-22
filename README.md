@@ -14,7 +14,7 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
     * [Key advantages](#key-advantages) 
 	* [Features](#dart-features) 
 	* [Security Report](#security-report) 
-- [Cloud Services](#outbox_tray-cloud-services)
+- [App security monitoring service](#outbox_tray-app-security-monitoring-service)
     * [Data Collection, Processing, and GDPR compliance](#data-collection-processing-and-gdpr-compliance)
 - [Talsec Commercial Subscriptions](#bar_chart-talsec-commercial-subscriptions) 
     * [Plans comparison](#plans-comparison)
