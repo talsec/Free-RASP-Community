@@ -237,7 +237,7 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
          <td colspan=5><strong>Fair usage policy</strong></td>
         </tr>
         <tr>
-            <td>Mentioning of the app name in Talsec marketing communication (e.g. "Trusted by Talsec section" on social media)</td>
+            <td>Mentioning of the App name and logo in the marketing communications of Talsec (e.g. "Trusted by" section of  the Talsec web or in the social media)</td>
             <td>over 100k downloads</td>
             <td>no</td>
         </tr>
