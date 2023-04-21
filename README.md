@@ -70,6 +70,9 @@ App security monitoring service are shared both for Android and iOS. App securit
 * Each account can set up a Watcher to receive weekly alerts about detected attempts for app modifications
 
 ## Data Collection, Processing, and GDPR compliance
+freeRASP SDK collects anonimized security diagnostics data from the Apps. It includes technical information about state of scurity and integrity of Devices and App instances. It includes anonimous app instance and device IDs. This information allows Talsec to implement PDF security report feature. Data is also used to improve product and prepare the mobile security reports. 
+
+Data collection can be disabled or configured to address customers' DB in premium service plans of Talsec (see [RASP+](https://github.com/orgs/talsec/discussions/5))         
 By April 2022 [Google Play requires](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en) all app publishers to declare how they collect and handle user data for the apps they publish on Google Play. They should inform users properly of the data collected by the apps and how the data is shared and processed. Therefore, Google will reject the apps which do not comply with the policy.
 
 Apple has a similar [approach](https://developer.apple.com/app-store/app-privacy-details/) and data types specification.
@@ -87,7 +90,7 @@ For the purpose of Fraud prevention, user safety, and compliance the dedicated A
     * Information that relates to an individual device. For example, a device model and anonymous identifier to control that app instance executed on the original device that it was initially installed on. It is needed to combat threats like bots and API abuse.
 </i>
 
-None of the data collected by the freeRASP Talsec Security SDK is considered personal or sensitive. Also, there is no technical way to identify the real person by the identifiers collected by freeRASP SDK.
+All the data collected by the freeRASP Talsec Security SDK is considered non user sensitive. Also, there is no technical way to identify the real person by the identifiers collected by freeRASP SDK.
 
 Google Play’s User Data policy indicates that a prominent disclosure should be presented to the users, **in case of an app collecting personal or sensitive data**. 
 
@@ -105,7 +108,7 @@ Talsec offers commercial plans for customers to:
 * Comply with FinTech grade regulations 
 * Gain OWASP MAS Compliance 
 * Protect APIs and combat fraud
-* Win time needed for coding app security best practices 
+* Win the time needed for coding app security best practices 
 
 To get the most advanced protection compliant  and support from our experts, contact us at [talsec.app](https://talsec.app).
 
