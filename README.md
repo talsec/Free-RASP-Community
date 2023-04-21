@@ -131,6 +131,12 @@ Learn more about commercial features at  [https://talsec.app](https://talsec.app
 
 ## Plans Comparison
 
+
+<i>
+freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impose some limitations on the free usage. See the FUP section in the table below 
+</i>
+
+
 <table>
     <thead>
         <tr>
