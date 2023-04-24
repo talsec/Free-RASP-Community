@@ -26,7 +26,7 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
 The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Cordova and React Native developers. 
 
 You can check platform-specific submodules for the installation guide and specific details down below:
-* [Flutter](https://pub.dev/packages/freerasp)
+* [Flutter](https://github.com/talsec/Free-RASP-Flutter) ([pub.dev package](https://pub.dev/packages/freerasp))
 * [React Native](https://github.com/talsec/Free-RASP-ReactNative)
 * [Cordova](https://github.com/talsec/Free-RASP-Cordova)
 * [Android](https://github.com/talsec/Free-RASP-Android)
@@ -37,7 +37,7 @@ You can check platform-specific submodules for the installation guide and specif
 * Simple download and install with clear source code snippets
 * No significant effect on the app performance
 * Weekly security report via email indicating security status of devices and app integrity
-* Fulfills [OWASP MASVS V8: Resiliency Against Reverse Engineering Requirements](https://mas.owasp.org/MASVS/Controls/0x15-V8-Resiliency_Against_Reverse_Engineering_Requirements/)
+* Fulfills [OWASP MASVS V8: Resiliency Against Reverse Engineering Requirements](https://mobile-security.gitbook.io/masvs/security-requirements/0x15-v8-resiliency_against_reverse_engineering_requirements)
 
 ##  :dart: Features
 freeRASP **provides protection** against potentially dangerous behavior,  including the following:
