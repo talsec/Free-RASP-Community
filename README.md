@@ -104,18 +104,17 @@ An example of a disclosure screen:
 </h1>
 
 # :bar_chart: Talsec Commercial Subscriptions 
-Talsec offers commercial plans for customers to:
-* Pass external penetration testing
-* Comply with FinTech grade regulations 
-* Gain OWASP MAS Compliance 
-* Protect APIs and combat fraud
-* Win the time needed for coding app security best practices 
+Talsec offers commercial plans on top of freeRASP (Business RASP+):
+* No limits of Fair Usage Policy (100K App Downloads) 
+* No Data Collection from your app
+* FinTech grade security, features and SLA (see more in [this post](https://github.com/orgs/talsec/discussions/5) )
+* Protect APIs and risk scoring by AppiCrypt(r)
 
-To get the most advanced protection compliant  and support from our experts, contact us at [talsec.app](https://talsec.app).
+Learn more at [talsec.app](https://talsec.app).
 
-The commercial version provides a top-notch protection level, extra features, support, and maintenance. One of the most valued commercial features is [AppiCrypt®](https://www.talsec.app/appicrypt) - App Integrity Cryptogram.
+Not to overlook, the one of the most valued commercial features is [AppiCrypt®](https://www.talsec.app/appicrypt) - App Integrity Cryptogram.
 
-It allows easy to implement API protection and App Integrity verification on the backend to prevent API abuse:
+It allows easy-to-implement API protection and App Integrity verification on the backend to prevent API abuse:
 
 -   Bruteforce attacks
 -   Botnets
