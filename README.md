@@ -103,7 +103,7 @@ An example of a disclosure screen:
 <img src="https://raw.githubusercontent.com/talsec/Free-RASP-Community/master/visuals/android_disclosure_screen.png" width=25%>
 </h1>
 
-# :bar_chart: Talsec Commercial Subscriptions 
+# :money_with_wings: Talsec Commercial Subscriptions 
 Talsec offers commercial plans on top of freeRASP (Business RASP+):
 * No limits of Fair Usage Policy (100K App Downloads) 
 * No Data Collection from your app
