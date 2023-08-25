@@ -78,7 +78,7 @@ By April 2022 [Google Play requires](https://support.google.com/googleplay/andro
 
 Apple has a similar [approach](https://developer.apple.com/app-store/app-privacy-details/) and data types specification.
 
-Talsec recommends adding the following statements to the Privacy Policy page dedicated to your app. Also, use the text below while filling in the Google Play Safety Section or similar for Apple App Store publishing.
+Talsec recommends adding the following statements to the Privacy Policy page dedicated to your app. Also, use the text below while filling in the Google Play Safety Section or similar for Apple App Store publishing. See also the  compliance checks guide. Please refer to the [guide on compliance checks](https://github.com/talsec/Free-RASP-iOS/tree/master#step-4-app-store-user-data-policy) for the App Store User Data Policy as well.
 
 <i>
 For the purpose of Fraud prevention, user safety, and compliance the dedicated App safety SDK needs to send the following anonymous diagnostic data off the device for detection of security issues. Thus the application collects the following data:
