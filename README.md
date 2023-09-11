@@ -16,17 +16,18 @@ freeRASP is a mobile in-app protection and security monitoring SDK. It aims to c
 	* [Security Report](#security-report) 
 - [App security monitoring service](#outbox_tray-app-security-monitoring-service)
     * [Data Collection, Processing, and GDPR compliance](#data-collection-processing-and-gdpr-compliance)
-- [Talsec Commercial Subscriptions](#bar_chart-talsec-commercial-subscriptions) 
+- [Talsec Commercial Subscriptions](#money_with_wings-talsec-commercial-subscriptions)
     * [Plans comparison](#plans-comparison)
 - [Community development](#community-development) 
 - [About us](#about-us)
 - [License](#license) 
 
 # Overview
-The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Cordova and React Native developers. 
+The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Capacitor, Cordova and React Native developers. 
 
 You can check platform-specific submodules for the installation guide and specific details down below:
 * [Flutter](https://github.com/talsec/Free-RASP-Flutter) ([pub.dev package](https://pub.dev/packages/freerasp))
+* [Capacitor](https://github.com/talsec/Free-RASP-Capacitor)
 * [React Native](https://github.com/talsec/Free-RASP-ReactNative)
 * [Cordova](https://github.com/talsec/Free-RASP-Cordova)
 * [Android](https://github.com/talsec/Free-RASP-Android)
@@ -107,8 +108,8 @@ An example of a disclosure screen:
 Talsec offers commercial plans on top of freeRASP (Business RASP+):
 * No limits of Fair Usage Policy (100K App Downloads) 
 * No Data Collection from your app
-* FinTech grade security, features and SLA (see more in [this post](https://github.com/orgs/talsec/discussions/5) )
-* Protect APIs and risk scoring by AppiCrypt(r)
+* FinTech grade security, features and SLA (see more in [this post](https://github.com/orgs/talsec/discussions/5))
+* Protect APIs and risk scoring by AppiCrypt®
 
 Learn more at [talsec.app](https://talsec.app).
 
@@ -124,7 +125,7 @@ It allows easy-to-implement API protection and App Integrity verification on the
 
 It is a unified solution that works across all mobile platforms without dependency on external web services (i.e., without extra latency, an additional point of failure, and maintenance costs).
 
-Learn more about commercial features at  [https://talsec.app](https://talsec.app/).
+Learn more about commercial features at [talsec.app](https://talsec.app).
 
 **TIP:** You can try freeRASP and then upgrade easily to an enterprise service.
 
