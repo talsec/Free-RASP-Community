@@ -18,3 +18,6 @@
 	path = React Native
 	url = https://github.com/talsec/Free-RASP-ReactNative.git
         branch = master
+[submodule "Capacitor"]
+	path = Capacitor
+	url = git@github.com:talsec/Free-RASP-Capacitor.git
