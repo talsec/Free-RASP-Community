@@ -185,6 +185,8 @@ freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impos
                     <li>Screen lock control</li>
                     <li>Google Play Services enabled/disabled</li>
                     <li>Last security patch update</li>
+                    <li>System VPN control</li>
+                    <li>Developer mode control</li>
                 </ul>
             </td>
             <td>yes</td>
