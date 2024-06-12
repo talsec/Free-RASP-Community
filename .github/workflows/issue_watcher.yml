@@ -1,0 +1,11 @@
+name: Issue watcher
+on:
+  workflow_dispatch:
+  schedule:
+    # Date follows the cron syntax: https://en.wikipedia.org/wiki/Cron
+    # Every Monday at 6:30 AM
+    - cron: '30 6 * * 1'
+
+jobs:
+  check_issues:
+    uses: talsec/github-workflows/.github/workflows/issue_watcher.yml@master
