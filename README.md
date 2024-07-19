@@ -256,11 +256,11 @@ freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impos
             <td>yes</td>
         </tr>
         <tr>
-            <td colspan=5><strong>Fair usage policy - 100K protected apps Downloads</strong></td>
+            <td colspan=5><strong>Fair usage policy - up to 100K Devices</strong></td>
         </tr>
         <tr>
             <td>Mentioning of the App name and logo in the marketing communications of Talsec (e.g. "Trusted by" section on the web).</td>
-            <td>over 100k downloads</td>
+            <td>Over 100k devices</td>
             <td>no</td>
         </tr>
         <tr>
@@ -270,7 +270,7 @@ freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impos
         </tr>
 	<tr>
             <td>Place "Protected by freeRASP" logo in the App Screen(s)</td>
-            <td>yes</td>
+            <td>Over 100K Devices</td>
             <td>no</td>
         </tr>
     </tbody>
