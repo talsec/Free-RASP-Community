@@ -225,12 +225,12 @@ freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impos
             <td>yes</td>
         </tr>
         <tr>
-            <td colspan=5><strong>Security events data collection, Auditing and Monitoring tools</strong></td>
+            <td colspan=5><strong>Security logs data collection and Monitoring tools</strong></td>
         </tr>
         <tr>
             <td>Threat events data collection from SDK</td>
-            <td>yes</td>
-            <td>configurable</td>
+            <td>Yes (collected by Talsec's DB)</td>
+            <td>Yes (Customer's DB)</td>
         </tr>
         <tr>
             <td>AppSec regular email reporting service</td>
@@ -238,7 +238,7 @@ freeRASP is freemium software i.e. there is a Fair Usage Policy (FUP) that impos
             <td>yes</td>
         </tr>
         <tr>
-            <td>UI portal for Logging, Data analytics and auditing</td>
+            <td>Access to Data portal for Logging, data analytics and auditing</td>
             <td>no</td>
             <td>yes</td>
         </tr>
