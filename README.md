@@ -11,6 +11,8 @@ In-App protection is a mobile security technology that allows mobile application
 
 freeRASP is a mobile in-app protection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
 
+:loudspeaker: The official documentation has been moved to a new location. You can now find it [here](https://talsec.gitbook.io/freerasp). :loudspeaker:
+
 # Overview
 The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Capacitor, Cordova and React Native developers. 
 
@@ -25,7 +27,7 @@ You can check platform-specific submodules for the installation guide and specif
 ### Key advantages
 * Reactions to attacks and detected security threats via an API
 * Simple download and install with clear source code snippets
-* No significant effect on the app performance
+* Insignificant effect on the app performance
 * Weekly security report via email indicating security status of devices and app integrity
 * Fulfills [OWASP MASVS V8: Resiliency Against Reverse Engineering Requirements](https://mobile-security.gitbook.io/masvs/security-requirements/0x15-v8-resiliency_against_reverse_engineering_requirements)
 
@@ -42,15 +44,16 @@ freeRASP **provides protection** against potentially dangerous behavior,  includ
 
 :heavy_check_mark: Installing the app through untrusted methods/unofficial stores
 
-Visit our [wiki](https://github.com/talsec/Free-RASP-Community/wiki/Threat-detection) to learn more details about the performed checks and their importance for app security.
+Visit our [wiki](https://talsec.gitbook.io/freerasp/wiki) to learn more details about the performed checks and their importance for app security.
 
-# :rocket: Discover GitBook Documentation
-Explore a comprehensive collection of resources, including guides, tutorials, and technical documentation on the [GitBook page](https://talsec.gitbook.io/freerasp). Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
+# :rocket: Discover Official Documentation
+Visit the [GitBook page](https://talsec.gitbook.io/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation. Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
 
 ## :link: Integration Guide
 For a seamless integration experience, follow the steps provided in the [Integration Guide](https://talsec.gitbook.io/freerasp/integration). This guide offers detailed instructions to ensure a smooth and efficient process, no matter what platform you're working with.
 
-Make sure to bookmark the page and stay updated :books: :sparkles: !
+Make sure to bookmark the page and stay updated :books: :sparkles:!
 
-# Reference to Legacy Documentation
-If you encounter any discrepancies or errors in the documentation, please open an issue so it can be improved for everyone's benefit. For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki), which includes valuable legacy details and insights. Your feedback is greatly appreciated, as it helps refine these resources and better support the community’s needs.
+## Reference to Legacy Documentation
+
+If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
