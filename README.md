@@ -57,3 +57,8 @@ Make sure to bookmark the page and stay updated :books: :sparkles:!
 ## Reference to Legacy Documentation
 
 If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
+
+## Issues and enhancements
+If you find a bug or have an idea for an enhancement, feel free to [raise an issue](https://github.com/talsec/Free-RASP-Community/issues). We track everything in [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to keep tasks organized and connected to relevant issues or pull requests. This helps streamline collaboration and track progress.
+
+You can check the project board [here](https://github.com/orgs/talsec/projects/2).
