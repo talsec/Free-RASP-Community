@@ -11,7 +11,7 @@ In-App protection is a mobile security technology that allows mobile application
 
 freeRASP is a mobile in-app protection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
 
-:loudspeaker: The official documentation has been moved to a new location. You can now find it [here](https://talsec.gitbook.io/freerasp). :loudspeaker:
+:loudspeaker: The official documentation has been moved to a new location. You can now find it [here](https://docs.talsec.app/freerasp). :loudspeaker:
 
 # Overview
 The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Capacitor, Cordova and React Native developers. 
@@ -44,15 +44,20 @@ freeRASP **provides protection** against potentially dangerous behavior,  includ
 
 :heavy_check_mark: Installing the app through untrusted methods/unofficial stores
 
-Visit our [wiki](https://talsec.gitbook.io/freerasp/wiki) to learn more details about the performed checks and their importance for app security.
+Visit our [wiki](https://docs.talsec.app/freerasp/wiki) to learn more details about the performed checks and their importance for app security.
 
-# :rocket: Discover Official Documentation
-Visit the [GitBook page](https://talsec.gitbook.io/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation. Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
+# :book: Discover Official Documentation
+Visit the [GitBook page](https://docs.talsec.app/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation. Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
 
 ## :link: Integration Guide
-For a seamless integration experience, follow the steps provided in the [Integration Guide](https://talsec.gitbook.io/freerasp/integration). This guide offers detailed instructions to ensure a smooth and efficient process, no matter what platform you're working with.
+For a seamless integration experience, follow the steps provided in the [Integration Guide](https://docs.talsec.app/freerasp/integration). This guide offers detailed instructions to ensure a smooth and efficient process, no matter what platform you're working with.
 
 Make sure to bookmark the page and stay updated :books: :sparkles:!
+
+## :rocket: What's New and Changelog
+Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, and Cordova. 
+
+Don’t miss out on any updates and explore the changelog to see how we’re continually making freeRASP better for you!
 
 ## Reference to Legacy Documentation
 
