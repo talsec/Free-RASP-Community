@@ -59,11 +59,14 @@ Stay informed and make the most of freeRASP by checking out [What's New and Chan
 
 Don’t miss out on any updates and explore the changelog to see how we’re continually making freeRASP better for you!
 
-## Reference to Legacy Documentation
+## :scroll: Reference to Legacy Documentation
 
-If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
+If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. 
 
-## Issues and enhancements
-If you find a bug or have an idea for an enhancement, feel free to [raise an issue](https://github.com/talsec/Free-RASP-Community/issues). We track everything in [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to keep tasks organized and connected to relevant issues or pull requests. This helps streamline collaboration and track progress.
+For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
 
-You can check the project board [here](https://github.com/orgs/talsec/projects/2).
+# :sparkles: Enhancements
+
+If you have any ideas for improvements, feel free to [raise an issue](https://github.com/talsec/Free-RASP-Community/issues) and mark it with an **enhancement** label. We track these enhancements using [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to keep tasks organized and connected to relevant issues or pull requests.
+
+You can check out the project board [here](https://github.com/orgs/talsec/projects/2).
