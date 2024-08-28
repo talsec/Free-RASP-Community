@@ -54,16 +54,16 @@ For a seamless integration experience, follow the steps provided in the [Integra
 
 Make sure to bookmark the page and stay updated :books: :sparkles:!
 
-## :rocket: What's New and Changelog
-Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, and Cordova. 
-
-Don’t miss out on any updates and explore the changelog to see how we’re continually making freeRASP better for you!
-
 ## :scroll: Reference to Legacy Documentation
 
 If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. 
 
 For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
+
+# :rocket: What's New and Changelog
+Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, and Cordova. 
+
+Don’t miss out on any updates and explore the changelog to see how we’re continually making freeRASP better for you!
 
 # :sparkles: Enhancements
 
