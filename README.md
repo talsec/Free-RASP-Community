@@ -34,7 +34,7 @@ You can check platform-specific submodules for the installation guide and specif
 ##  :dart: Features
 freeRASP **provides protection** against potentially dangerous behavior,  including the following:
 
-:heavy_check_mark: Using rooted or jailbroken devices (e.g., unc0ver, check1rain)
+:heavy_check_mark: Using rooted or jailbroken devices (e.g., su, Magisk, unc0ver, check1rain, Dopamine)
 
 :heavy_check_mark: Reverse engineering attempts
 
