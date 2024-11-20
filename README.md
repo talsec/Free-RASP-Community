@@ -46,6 +46,11 @@ freeRASP **provides protection** against potentially dangerous behavior,  includ
 
 Visit our [wiki](https://docs.talsec.app/freerasp/wiki) to learn more details about the performed checks and their importance for app security.
 
+## :radioactive: freeMalwareDetection
+**freeMalwareDetection** is a powerful feature designed to enhance the security of your Android application by quickly and efficiently scanning for malicious or suspicious applications (e.g. Android malware) based on various blacklists and security policies. It helps to detect apps with suspicious package names, hashes, or potentially dangerous permissions.
+
+After the integration of freeRASP, make sure you visit the [freeMalwareDetection](https://docs.talsec.app/freemalwaredetection) repository to learn more about this feature!
+
 # :book: Discover the Official freeRASP Documentation
 Visit the [GitBook page](https://docs.talsec.app/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation specifically for freeRASP.
 Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
@@ -54,12 +59,6 @@ Whether you're just starting out or looking for advanced tips to enhance your pr
 For a seamless integration experience, follow the steps provided in the [Integration Guide](https://docs.talsec.app/freerasp/integration). This guide offers detailed instructions to ensure a smooth and efficient process, no matter what platform you're working with.
 
 Make sure to bookmark the page and stay updated :books: :sparkles:!
-
-## :scroll: Reference to Legacy Documentation
-
-If you have any suggestions for improvement or notice anything that could be clarified in the new GitBook documentation, please open an issue. Your feedback helps us maintain high-quality resources for all users. 
-
-For additional information and historical context, you can refer to the [freeRASP wiki](https://github.com/talsec/Free-RASP-Community/wiki/Legacy-Documentation), which includes valuable legacy details and insights. Additionally, the old information and historical context can be found when you checkout to a specific tag. Your input is invaluable in helping us improve our resources and provide even better support for your needs.
 
 # :rocket: What's New and Changelog
 Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, and Cordova. 
