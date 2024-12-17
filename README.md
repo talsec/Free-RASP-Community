@@ -49,7 +49,7 @@ Visit our [wiki](https://docs.talsec.app/freerasp/wiki) to learn more details ab
 ## :radioactive: freeMalwareDetection
 **freeMalwareDetection** is a powerful feature designed to enhance the security of your Android application by quickly and efficiently scanning for malicious or suspicious applications (e.g. Android malware) based on various blacklists and security policies. It helps to detect apps with suspicious package names, hashes, or potentially dangerous permissions.
 
-After the integration of freeRASP, make sure you visit the [freeMalwareDetection](https://docs.talsec.app/freemalwaredetection) repository to learn more about this feature!
+After the integration of freeRASP, make sure you visit the [freeMalwareDetection](https://github.com/talsec/freeMalwareDetection) repository to learn more about this feature!
 
 # :book: Discover the Official freeRASP Documentation
 Visit the [GitBook page](https://docs.talsec.app/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation specifically for freeRASP.
@@ -72,4 +72,4 @@ If you have any ideas for improvements, feel free to [raise an issue](https://gi
 You can check out the project board [here](https://github.com/orgs/talsec/projects/2).
 
 # :page_facing_up: License
-This project is provided as freemium software, i.e. there is a fair usage policy that imposes some limitations on the free usage. The SDK software consists of open-source and binary parts, which is the property of Talsec. The open-source part is licensed under the MIT License - see the LICENSE file for details.
+This project is provided as freemium software, i.e. there is a [fair usage policy](https://docs.talsec.app/freerasp/features-and-pricing-plans#plans-comparison) that imposes some limitations on the free usage. The SDK software consists of open-source and binary parts, which is the property of Talsec. The open-source part is licensed under the MIT License - see the LICENSE file for details.
