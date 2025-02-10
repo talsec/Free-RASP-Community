@@ -11,7 +11,7 @@ In-App protection is a mobile security technology that allows mobile application
 
 freeRASP is a mobile in-app protection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
 
-:loudspeaker: The official documentation has been moved to a new location. You can now find it [here](https://docs.talsec.app/docs-and-articles-portal). :loudspeaker:
+:loudspeaker: [The official documentation has been moved to a new location. You can now find it here](https://docs.talsec.app/docs-and-articles-portal). :loudspeaker:
 
 # Overview
 The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Capacitor, Cordova and React Native developers. 
