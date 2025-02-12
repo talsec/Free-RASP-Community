@@ -55,6 +55,8 @@ After the integration of freeRASP, make sure you visit the [freeMalwareDetection
 Visit the [GitBook page](https://docs.talsec.app/freerasp) for comprehensive and up-to-date guides, tutorials, and technical documentation specifically for freeRASP.
 Whether you're just starting out or looking for advanced tips to enhance your project, you'll find everything you need here.
 
+:loudspeaker: [The official documentation has been moved to a new location. You can now find it here](https://docs.talsec.app/docs-and-articles-portal). :loudspeaker:
+
 ## :link: Integration Guide
 For a seamless integration experience, follow the steps provided in the [Integration Guide](https://docs.talsec.app/freerasp/integration). This guide offers detailed instructions to ensure a smooth and efficient process, no matter what platform you're working with.
 
