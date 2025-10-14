@@ -9,7 +9,7 @@
 # freeRASP
 In-App protection is a mobile security technology that allows mobile applications to check the security state of the environment they run within, actively counteract attack attempts, and control the integrity of the app. Such technology is also called RASP (Runtime App Self Protection) or App Shielding. 
 
-freeRASP is a mobile in-app protection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
+freeRASP is a mobile in-app threat detection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
 
 :loudspeaker: [The official documentation has been moved to a new location. You can now find it here](https://docs.talsec.app/docs-and-articles-portal?utm_source=github). :loudspeaker:
 
@@ -32,7 +32,7 @@ You can check platform-specific submodules for the installation guide and specif
 * Fulfills [OWASP MASVS V8: Resiliency Against Reverse Engineering Requirements](https://mobile-security.gitbook.io/masvs/security-requirements/0x15-v8-resiliency_against_reverse_engineering_requirements)
 
 ##  :dart: Features
-freeRASP **provides protection** against potentially dangerous behavior,  including the following:
+freeRASP **provides threat detection and security monitoring** of potentially dangerous behavior,  including the following:
 
 :heavy_check_mark: Using rooted or jailbroken devices (e.g., su, Magisk, unc0ver, check1rain, Dopamine)
 
