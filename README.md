@@ -7,14 +7,14 @@
 [<img src="https://assets.42matters.com/badges/2024/04/rising-star.svg?m=04" width="100"/>](https://42matters.com/sdks/android/talsec)
 
 # freeRASP
-In-App protection is a mobile security technology that allows mobile applications to check the security state of the environment they run within, actively counteract attack attempts, and control the integrity of the app. Such technology is also called RASP (Runtime App Self Protection) or App Shielding. 
+In-App protection is a mobile security technology that allows mobile applications to check the security state of the environment they run within, actively counteract attack attempts, and control the integrity of the app. Such technology is also called RASP (Runtime App Self Protection) or App Shielding.
 
 freeRASP is a mobile in-app threat detection and security monitoring SDK. It aims to cover the  main aspects of RASP and application shielding.
 
 :loudspeaker: [The official documentation has been moved to a new location. You can now find it here](https://docs.talsec.app/docs-and-articles-portal?utm_source=github). :loudspeaker:
 
 # Overview
-The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. It is freely distributed for all mobile platforms and is also available for Flutter, Capacitor, Cordova and React Native developers. 
+The freeRASP is a lightweight and easy-to-integrate security library designed to protect apps from potential  threats during their runtime. It contains multiple security checks, each aimed to cover a possible attack vector to ensure a high level of application security. Among other options, it is able to detect reverse engineering, repackaging or cloning attempts, and running in an unsafe OS environment. Freely available for iOS and Android, and compatible with Flutter, Capacitor, Cordova, React Native, Kotlin Multiplatform, Unity, and Unreal Engine.
 
 You can check platform-specific submodules for the installation guide and specific details down below:
 * [Flutter](https://github.com/talsec/Free-RASP-Flutter) ([pub.dev package](https://pub.dev/packages/freerasp))
@@ -23,6 +23,9 @@ You can check platform-specific submodules for the installation guide and specif
 * [Cordova](https://github.com/talsec/Free-RASP-Cordova)
 * [Android](https://github.com/talsec/Free-RASP-Android)
 * [iOS](https://github.com/talsec/Free-RASP-iOS)
+* [Kotlin Multiplatform](https://github.com/talsec/Free-RASP-KMP)
+* [Unity](https://github.com/talsec/Free-RASP-Unity-POC)
+* [Unreal Engine](https://github.com/talsec/Free-RASP-UnrealEngine-POC)
 
 ### Key advantages
 * Reactions to attacks and detected security threats via an API
@@ -44,6 +47,14 @@ freeRASP **provides threat detection and security monitoring** of potentially da
 
 :heavy_check_mark: Installing the app through untrusted methods/unofficial stores
 
+:heavy_check_mark: Detectng unsecured device environments (e.g., Developer Mode, enabled ADB)
+
+:heavy_check_mark: Preventing data leakage via screen capturing (e.g., Screenshots, Screen recording)
+
+:heavy_check_mark: Identifying device spoofing attempts (e.g., Location/GPS mocking, Time manipulation)
+
+:heavy_check_mark: Monitoring for suspicious network connections (e.g., System VPN, Unsecure Wi-Fi)
+
 Visit our [wiki](https://docs.talsec.app/freerasp/wiki?utm_source=github) to learn more details about the performed checks and their importance for app security.
 
 ## :radioactive: freeMalwareDetection
@@ -63,7 +74,7 @@ For a seamless integration experience, follow the steps provided in the [Integra
 Make sure to bookmark the page and stay updated :books: :sparkles:!
 
 # :rocket: What's New and Changelog
-Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog?utm_source=github)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, and Cordova. 
+Stay informed and make the most of freeRASP by checking out [What's New and Changelog](https://docs.talsec.app/freerasp/whats-new-and-changelog?utm_source=github)! Here, you’ll discover the latest features, enhancements, and bug fixes we’ve implemented to improve your experience across all platforms, including Android, iOS, Flutter, React Native, Capacitor, Cordova, Kotlin Multiplatform, Unity and Unreal Engine.
 
 Don’t miss out on any updates and explore the changelog to see how we’re continually making freeRASP better for you!
 
