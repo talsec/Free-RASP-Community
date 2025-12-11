@@ -23,7 +23,7 @@
 	url = git@github.com:talsec/Free-RASP-Capacitor.git
 [submodule "Kotlin Multiplatform"]
 	path = Kotlin Multiplatform
-	url = git@github.com:talsec/Free-RASP-KMP.git
+	url = https://github.com/talsec/Free-RASP-KMP.git
 [submodule "Unity"]
 	path = Unity
 	url = git@github.com:talsec/Free-RASP-Unity-POC.git
