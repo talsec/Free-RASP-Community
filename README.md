@@ -37,17 +37,21 @@ You can check platform-specific submodules for the installation guide and specif
 ##  :dart: Features
 freeRASP **provides threat detection and security monitoring** of potentially dangerous behavior,  including the following:
 
-:heavy_check_mark: Using rooted or jailbroken devices (e.g., su, Magisk, unc0ver, check1rain, Dopamine)
+:heavy_check_mark: Using rooted or jailbroken devices (e.g., su, Magisk, KernelSU, Shamiko, HideMyApplist, unc0ver, checkra1n, Dopamine)
+
+:heavy_check_mark: Unlocked or compromised bootloader
 
 :heavy_check_mark: Reverse engineering attempts
 
-:heavy_check_mark: Running hooking frameworks (e.g., Frida, Xposed or Shadow)
+:heavy_check_mark: Running hooking frameworks (e.g., Frida, LSPosed, Xposed or Shadow)
+
+:heavy_check_mark: UI automation and driven-input attacks (e.g., Appium)
 
 :heavy_check_mark: Tampering or repackaging the  application
 
 :heavy_check_mark: Installing the app through untrusted methods/unofficial stores
 
-:heavy_check_mark: Detectng unsecured device environments (e.g., Developer Mode, enabled ADB)
+:heavy_check_mark: Detecting unsecured device environments (e.g., Developer Mode, enabled ADB)
 
 :heavy_check_mark: Preventing data leakage via screen capturing (e.g., Screenshots, Screen recording)
 
